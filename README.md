@@ -1,4 +1,4 @@
-# Flarpy-Blorb
+# Flarpy Blorb
 
 This is a simple game that tries to imitate the gameplay of the "Flappy Bird" video game.
 This project was created following this tutorial as a guide: https://www.youtube.com/watch?v=XtQMytORBmM&list=WL&index=14
